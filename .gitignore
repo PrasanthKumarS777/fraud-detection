@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+data/raw/
+data/processed/
+mlruns/
+*.parquet
+*.csv
+*.pkl
+*.bin
+.DS_Store
+notebooks/.ipynb_checkpoints/
